@@ -44,6 +44,6 @@ The dataset contains environmental AQI readings along with geospatial identifier
 
 ## 👤 Author
 
-**RogithKumar M**
+**Rogithkumar M**
 
 * GitHub: [@RogithKumar M](https://github.com/)
